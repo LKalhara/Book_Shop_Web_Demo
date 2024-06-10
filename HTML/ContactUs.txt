@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="CSS/contactus.css">
+        <title>ABC Bookstore - Books</title>
+    </head>
+    <body>
+        <div class="header">
+            <div class="header-container">
+                <div class="left-section">
+                    <div><a href="Home.html">ABC BookStore</a></div>
+                </div>
+                <div class="nav-title">
+                    <div class="nav-text">Contact Us</div>  
+                </div>
+            </div>
+        </div>
+
+        <div class="containner">
+            <div class="who-we-are">
+                CONTACT US
+            </div>
+            <div class="inner-containner">
+                <div class="contact-section">
+                    <div class="address">
+                        <img src="Image/address.png" alt="address">
+                        <div>
+                            <span>ADDRESS</span><br>
+                        </div>
+                        <div class="shopaddress">
+                            ABC BookShop, <br>
+                            Main Street, <br>
+                            Kandy <br>
+                        </div>
+                    </div>
+                    <div class="phone">
+                        <img src="Image/phone-call.png" alt="phone">
+                        <div>
+                            <span>PHONE</span><br>
+                        </div>
+                        <div class="telnumbers">
+                            <div>
+                                <div>Director</div>
+                                <div>081-562 5665</div>
+                            </div>
+                            <div>
+                                <div>Finance</div>
+                                <div>077-265 4645</div>
+                            </div>
+                            <div>
+                                <div>Marketing</div>
+                                <div>081-211 2326</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="phone">
+                        <img src="Image/mail.png" alt="email">
+                        <div>
+                            <span>EMAIL</span><br>
+                        </div>
+                        <div class="emaliaddress">
+                            <div>
+                                <div>Director</div>
+                                <div>directorABC@gmail.com</div>
+                            </div>
+                            <div>
+                                <div>Finance</div>
+                                <div>financeABC@gmail.com</div>
+                            </div>
+                            <div>
+                                <div>Marketing</div>
+                                <div>marketingABC@gmail.com</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer>
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="foot">
+                Copyright © 2023 ABC BooKShop - All Rights Reserved. Concept, Design & Development by Lasinda Kalhara 
+            </div>
+        </footer>
+    </body>
+</html>

@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*-----------------header section----------------------------*/
+
+.header{
+    height: 55vh;
+    width: 100%;
+   
+    position: relative;
+}
+.nav-text{
+    margin-top: 150px;
+    margin-right: 150px;
+    color: white;
+    position: relative;
+    font-size: 50px;
+    letter-spacing: 10px;
+}
+.header::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('../Image/register-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 0px 0px 50px 50px;
+    opacity: .9;
+}
+.header-container{
+    display: flex;
+    position: static;
+    justify-content: space-between;
+    
+}
+
+.left-section{
+    padding-top: 20px;
+    margin-left: 30px;
+}
+.left-section a{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+    padding-top: 15px;
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    text-decoration: none;
+    border: white solid 5px;
+}
+
+/* ----------Registration form --------------------*/
+
+.registration-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.registration-text{
+    font-family: Franklin Gothic Demi;
+    font-size: 60px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.form-design{
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.7); 
+    padding: 15px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    
+}
+.form-design label{
+    width: 250px;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-family: Comic Sans MS;
+}
+.text-input{
+    width: 250px;
+    border: gray solid 2px;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+}
+.inner-form{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.function{
+    display: flex;
+    justify-content: center;
+}
+.fuction-btn{
+    margin-top: 40px;
+    height: 40px;
+    flex: 1;
+    margin-right: 2px;
+    border: #105735 solid 2px;
+    border-radius: 50px;
+    font-family: Comic Sans MS;
+    font-size: 15px;
+    letter-spacing: 5px;
+    font-weight: bold;
+
+}
+footer{
+    margin-top: 100px;
+}
+.foot{
+    margin-top: 0px;
+    width:100%;
+    height: 120px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.line1{
+    width: 100%;
+    height: 25px;
+    margin-bottom: 0;
+    background-color: black;
+
+}
+.line2{
+    width: 100%;
+    height: 1px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    background-color: red;
+
+}

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="CSS/events.css">
+        <title>ABC Bookstore - Events</title>
+    </head>
+    <body>
+        <div class="header">
+            <div class="header-container">
+                <div class="left-section">
+                    <div><a href="Home.html">ABC BookStore</a></div>
+                </div>
+                <div class="nav-title">
+                    <div class="nav-text">Events</div>  
+                </div>
+            </div>
+        </div>
+        <div class="body-content">
+            <!-- Event--------------------------- -->
+            <div class="new-arrival">
+                <div class="text-new-arrival">.... Join Soon ....</div>
+                <div class="new-arrival-cards">
+                    <div>
+                        <p>Welcome, book lovers, to ABC Bookstore, your go-to destination for 
+                            literary delights! We have an exciting lineup of upcoming book signings, 
+                            author talks, and other literary events that will surely ignite your 
+                            passion for reading. Get your calendars ready as we highlight some 
+                            not-to-be-missed events!
+                        </p>
+                    </div>
+                    <div class="new-book">
+                        <span>Event 1 - Book Signing Extravaganza!</span> <br>
+                        Date: June 15, 2023 <br>
+                        Time: 5:00 PM - 7:00 PM <br>
+                        Location: ABC Bookstore, Main Street,Kandy <br>
+                    </div>
+                    <div>
+                        <p>WJoin us as we kick off our literary festivities with an incredible book signing extravaganza! 
+                            We have the pleasure of hosting renowned author Jane Doe, who will be signing copies of her latest
+                             bestseller, "Infinite Horizons." Don't miss this opportunity to meet the mastermind behind this 
+                             captivating tale!
+                        </p>
+                    </div>
+                    <div class="new-book">
+                        <span>Event 2 - Author Talk and Q&A Session</span><br>
+                        Date: June 22, 2023<br>
+                        Time: 6:30 PM - 8:00 PM<br>
+                        Location: ABC Bookstore, Main Street,Kandy <br>
+                    </div>
+                    <div>
+                        <p>
+                            Mark your calendars for an engaging evening with author John Smith! He will be discussing
+                            his thought-provoking novel, "Mindscape," exploring the depths of the human mind and the blurred lines between reality and imagination. Stick around for an insightful Q&A 
+                            session where you can interact with the author himself!
+                        </p>
+                    </div>
+                    <div class="new-book">
+                        <span>Event 3 - Literary Panel Discussion</span><br>
+                        Date: July 1, 2023<br>
+                        Time: 7:00 PM - 9:00 PM<br>
+                        Location: ABC Bookstore, Main Street, Kandy<br>
+                    </div>
+                    <div>
+                        <p>
+                            Join us for a stimulating literary panel discussion featuring three distinguished authors:
+                             Sarah Johnson, Michael Thompson, and Emily Roberts. They will delve into the art of storytelling, 
+                             sharing their experiences, and discussing the power of words to inspire change. 
+                            Don't miss this opportunity to gain insights into the minds of these talented writers!
+                        </p>
+                    </div>
+                    <div class="new-book">
+                        <span>Event 4 - Book Launch Party</span><br>
+                        Date: July 10, 2023<br>
+                        Time: 6:00 PM - 8:30 PM<br>
+                        Location: ABC Bookstore, Main Street, Kandy<br>
+                    </div>
+                    <div>
+                        <p>
+                            Get ready for an evening of celebration as we unveil the highly anticipated novel, 
+                            "The Secrets Within," by emerging author David Anderson. Join us for an enchanting book
+                             launch party filled with music, refreshments, and the opportunity to have your copy 
+                            signed by the author himself. Let's give David a warm welcome to the literary world!
+                        </p>
+                    </div>
+                    <div class="new-book">
+                        <span>Event 5 - Children's Storytime and Workshop</span><br>
+                        Date: July 20, 2023<br>
+                        Time: 10:00 AM - 12:00 PM<br>
+                        Location: ABC Bookstore, Main Street, Kandy<br>
+                    </div>
+                    <div>
+                        <p>
+                            Calling all young readers and parents! Our bookstore is delighted to host a 
+                            magical morning of children's storytime and a creative workshop. Join award-winning author
+                             Jessica Lee as she brings her beloved characters to life through storytelling and engages children 
+                            in an interactive workshop, fostering their imagination and love for reading.
+                        </p>
+                        <p>
+                            There you have it, fellow book enthusiasts! Make sure to mark your calendars and be a part 
+                            of these captivating literary events. Remember, all events will be held at ABC Bookstore on Main Street. 
+                            Come and immerse yourself in the world of words and stories! Until next time, happy reading!
+                        </p>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+        <footer>
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="foot">
+                Copyright © 2023 ABC BooKShop - All Rights Reserved. Concept, Design & Development by Lasinda Kalhara 
+            </div>
+        </footer>
+    </body>
+</html>
